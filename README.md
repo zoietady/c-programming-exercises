@@ -1,2 +1,2 @@
 # C-programming-exercises
-Compilation of C programming assignments and exercises
+Compilation of C programming assignments and exercises from university
